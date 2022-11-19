@@ -1,0 +1,8 @@
+package com.mutwaffer.mutwaffer_user
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+
+
+}
